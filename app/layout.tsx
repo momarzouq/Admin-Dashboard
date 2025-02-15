@@ -25,7 +25,7 @@ export default function Layout({
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased text-stone-950 bg-stone-100`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased text-stone-950 bg-stone-50`}
       >
         {children}
       </body>

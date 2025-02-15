@@ -1,5 +1,5 @@
 ## npm run dev
 
-## npm i iconsax
+## npm i iconsdisktobx
 
 ## npm i cmdK

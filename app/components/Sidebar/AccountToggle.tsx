@@ -7,7 +7,7 @@ export default function AccountToggle() {
         <img
           src="/profile.JPG"
           alt="Profile"
-          className="w-10 h-12 object-cover rounded shrink-0 shadow"
+          className="w-10 h-10 object-cover rounded shrink-0 shadow"
         />
         <div className="text-start">
           <span className="text-sm font-semibold">Mohamed Marzouq</span>
